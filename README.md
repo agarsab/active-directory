@@ -1,3 +1,2 @@
 # active-directory
-Scripts for Microsoft Active Directory
-Tested in Windows Server 2012
+PowerShell scripts for Microsoft Active Directory tested in Windows Server 2012
